@@ -17,6 +17,11 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 
 # DESIGN:
 
+![WhatsApp Image 2025-11-14 at 14 44 49_8f8f8e85](https://github.com/user-attachments/assets/f5d20c1f-9f22-4e62-89bc-cc4f0fefe138)
+
+
+![WhatsApp Image 2025-11-14 at 14 45 11_4a4563f8](https://github.com/user-attachments/assets/1f8a5273-0aa3-44b7-8eb8-e92e324951a1)
+
 # INTEGRATOR CIRCUIT DIAGRAM
 <img width="446" height="270" alt="image" src="https://github.com/user-attachments/assets/521ab839-8846-49d0-bc6d-d8b2105934f3" />
 
@@ -29,6 +34,11 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 
 # TABULATION:
 
+![WhatsApp Image 2025-11-14 at 14 42 54_ef333fc0](https://github.com/user-attachments/assets/8e8b7025-1f4e-4f13-9bbf-aa1074e1c561)
+
+![WhatsApp Image 2025-11-14 at 14 42 05_b83a4eac](https://github.com/user-attachments/assets/122cb362-75d8-4fbe-b32d-e9787fade3fd)
+
+
 # THEORY:
 # DIFFEERENTIATOR:
 The differentiator circuit performs the mathematical operation of differentiation; that is, the output waveform is the derivative of the input waveform. The differentiator may be constructed from a basic inverting amplifier if an input resistor R1 is replaced by a capacitor C1 . The expression for the output voltage is given as,
@@ -40,7 +50,6 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 2. Choose fb = 20 fa and calculate the values of R1 and Cf so that R1C1 = Rf Cf.
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
-# DESIGN:
 
 # DIFFERENTIATOR CIRCUIT DIAGRAM
 <img width="485" height="264" alt="image" src="https://github.com/user-attachments/assets/f5242bb4-723a-447c-85a9-02798491222b" />
@@ -53,8 +62,6 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 <img width="614" height="285" alt="image" src="https://github.com/user-attachments/assets/af0e1a53-56c7-4af2-a5a4-859c7c2e842e" />
 
 
-# TABULATION:
-
 # PROCEDURE:
 1. Connections are given as per the circuit diagram
 2. + Vcc and - Vcc supply is given to the power supply terminal of the Op-Amp IC.
@@ -65,12 +72,18 @@ Thus an Integrator and Differentiator using op-amp are designed and their perfor
 
 # INTEGRATOR GRAPH
 
+![WhatsApp Image 2025-11-14 at 14 42 32_6c0c8171](https://github.com/user-attachments/assets/94979f2d-4ac7-40a6-b80f-915b9033ba70)
+
+
 # DIFFERENTIATOR GRAPH
 
+
+![WhatsApp Image 2025-11-14 at 14 43 18_fb0c805c](https://github.com/user-attachments/assets/f0dc4d94-fa2c-4ce2-8347-0bb6a06ade3d)
 
 # RESULT:
 
 
+![WhatsApp Image 2025-11-14 at 14 43 29_66132e6a](https://github.com/user-attachments/assets/f02136bc-f5d8-437d-8ac8-a00f9b4ee9a1)
 
 
 
